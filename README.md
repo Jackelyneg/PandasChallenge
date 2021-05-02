@@ -68,3 +68,13 @@ You must use the Pandas Library and the Jupyter Notebook.
 You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 You must include a written description of three observable trends based on the data.
 See Example Solution for a reference on expected format.
+
+
+# Dependencies and Setup
+import pandas as pd
+
+# File to Load (Remember to Change These)
+file_to_load = "Resources/purchase_data.csv"
+
+# Read Purchasing File and store into Pandas data frame
+purchase_data = pd.read_csv(file_to_load)
