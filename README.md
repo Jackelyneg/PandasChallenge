@@ -2,7 +2,8 @@
 Option 1: Heroes of Pymoli
 Fantasy
 
-![image](https://user-images.githubusercontent.com/81592631/116800102-06db0780-aacc-11eb-87f8-ed122b843be3.png)
+![image](https://user-images.githubusercontent.com/81592631/116800176-9ed8f100-aacc-11eb-840a-88524555a579.png)
+
 
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
